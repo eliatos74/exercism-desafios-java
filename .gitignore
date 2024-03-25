@@ -1,9 +1,21 @@
+#   exercico 01
 hello-world/.exercism
 hello-world/.gradle
 hello-world/bin
 hello-world/gradle
-
 hello-world/build.gradle
 hello-world/gradlew
 hello-world/gradlew.bat
 hello-world/HELP.md
+
+# exercico 02
+lasagna/.exercism
+lasagna/build
+lasagna/.gradle
+lasagna/bin
+lasagna/gradle
+lasagna/build.gradle
+lasagna/gradlew
+lasagna/gradlew.bat
+lasagna/HELP.md
+lasagna/HINTS.md
